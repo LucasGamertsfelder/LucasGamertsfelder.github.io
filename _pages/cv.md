@@ -9,8 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
+## Academic Positions
+- **Postdoctoral Researcher**, GIPSA-lab, Grenoble, France  
+  *Sep 2026 – Present*
+
+- **Postdoctoral Researcher**, Inria Sophia Antipolis, AROMATH team, France  
+  *March 2024 - March 2026*
+
+## Research Visits
+- **Visiting Researcher**, Inria Sophia Antipolis, NEO team, France
+  *Nov 2022 - Feb 2023*
+
+## Education
 * Ph.D in Optimal Control Theory, Macquarie University, 2022 
 * M.S. in Geodynamic Modelling, Macquarie University, 2017
 * B.S. in Mathematics, Flinders University, 2016
@@ -34,20 +45,17 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

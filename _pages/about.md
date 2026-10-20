@@ -7,16 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher with INRIA's Algebra, Geometry, Modeling and Algorithms team [AROMATH](https://team.inria.fr/aromath/). I was a visiting scientist at INRIA's Network Engineering and Operations [NEO](https://team.inria.fr/neo/) research team from November 2022 - January 2023. I obtained my Ph.D. in Optimal Control at Macquarie University, Sydney in October 2022. 
+I am a post-doctoral researcher with Gipsa-Lab's team Modélisation et Décision Optimale pour les Systèmes Incertains [MODUS](https://www.gipsa-lab.grenoble-inp.fr/recherche/departement-automatique-et-surete-des-systemes-das/modelisation-et-decision-optimale-pour-les-systemes-incertains-modus/).
+
 
 Research Interests
 ======
-My Ph.D. concerned the study of the asymptotics of stochastic control systems. The key tool in the study was the transformation of such systems into infinite-dimensional linear programming systems with Borel measure decision variables. 
-Currently, my work looks more generally at optimization of linear programs on measures: algorithms, convergence, and applications. Examples of problems belonging to this family include:
-- Optimal control,
-- Tensor decomposition,
-- Volume computation,
-- Polynomial optimization.
+
+My research focuses on optimization problems that admit infinite-dimensional linear programming formulations over spaces of measures.
+
+I am particularly interested in questions of duality, optimality, exactness, and the structure of solutions.
+
+I also investigate finite-dimensional relaxation schemes, including Moment-SOS hierarchies, grid-based relaxations, and RKHS-based methods, with particular emphasis on their convergence properties.
+
+These interests are motivated by applications in stochastic optimal control, game theory, and tensor decomposition.
 
 <!-- 
 Getting started
